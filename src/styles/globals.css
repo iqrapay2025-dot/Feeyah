@@ -1,0 +1,8 @@
+.policy-section ul {
+  list-style: disc;
+  padding-left: 1.5rem;
+  margin-top: 0.5rem;
+}
+.policy-section li {
+  margin-bottom: 0.35rem;
+}
